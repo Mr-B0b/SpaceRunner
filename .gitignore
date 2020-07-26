@@ -1,0 +1,5 @@
+*.exe
+*.dll
+*.tmp
+bin/*
+!System.Management.Automation.dll
